@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 2em;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.parra {
+    background-color: rgb(34, 35, 147);
+    font-size: 12pt;
+}
